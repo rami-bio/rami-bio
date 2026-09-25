@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there 👋, I'm Rami
 
-<!--
-**rami-bio/rami-bio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A high school student passionate about Bioinformatics and Computational Biology.**
 
-Here are some ideas to get you started:
+I love using code to solve biological problems. Currently building my foundation in Python, statistics, and genomics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Currently Learning
+- **Languages:** Python (Pandas, NumPy, Biopython), R (basics)
+- **Tools:** Linux, Git, Jupyter Notebooks
+- **Biology:** Genetics, Molecular Biology, Genomics
+
+---
+
+### 🔬 Current Projects
+- **[dna-to-protein](https://github.com/rami-bio/dna-to-protein)**: A Python script that translates DNA sequences into protein sequences using the standard genetic code.
+
+---
+
+### 🎯 Goals for 2027
+- Build a portfolio of 3 bioinformatics projects.
+- Contribute to an open-source bioinformatics tool.
+- Get accepted into a strong undergraduate program for Bioinformatics.
+
+---
+
+### 📫 How to Reach Me
+- **Location:** Iraq
